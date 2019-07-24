@@ -23,6 +23,10 @@ export default class Blog extends Component {
                 blogs: response.data
             });
 
+
+
+            
+
             // console.log(response.data);
 
            
